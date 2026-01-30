@@ -74,6 +74,10 @@ This tutorial outlines how to implement and use Remote Desktop by making a Virtu
 
     <img width="447" height="581" alt="image" src="https://github.com/user-attachments/assets/91bd03e4-5fdb-4235-86d7-bf4a62b0025b" />
 
+- Step 7
+  - After it begins logging you in, uncheck the privacy settings for the device when it pops up, hit accept
+  - Observe Remote Desktop.
+
     
 
 
