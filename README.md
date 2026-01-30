@@ -8,7 +8,7 @@ This tutorial outlines how to implement and use Remote Desktop by making a Virtu
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
 
 <h2>Operating Systems Used </h2>
